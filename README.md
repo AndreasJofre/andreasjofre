@@ -1,75 +1,57 @@
 <header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Create a branch
-
-_Welcome to "Introduction to GitHub"! :wave:_
-
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
-
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
-
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-![profile-readme-example](/images/profile-readme-example.png)
-
-### :keyboard: Activity: Your first branch
-
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
-
-   ![code-tab](/images/code-tab.png)
-
-3. Click on the **main** branch drop-down.
-
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
-
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
-
-   ![create-branch-button](/images/create-branch-button.png)
-
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+<h1 align="center">¡Hola! Soy Andreas G. Jofré 👋</h1>
+<h3 align="center">📊 Data Analyst | 💼 Business & Strategy | 🚀 Consultoría & Startups</h3>
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### 📌 Sobre mí  
+🎯 Apasionado por la **estrategia, análisis de datos y optimización de procesos**. Actualmente estoy en un **programa de formación gerencial en una empresa multinacional**, donde **roto por distintas áreas** para desarrollar una visión global del negocio.  
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+📈 Con experiencia en **análisis de datos, mejora de procesos y CRM**, mi objetivo es integrar **estrategia y tecnología** para la toma de decisiones empresariales.  
 
-</footer>
+💡 También me interesa el mundo de las **startups y consultoría**, donde la **data** es clave para escalar negocios con eficiencia.
+
+---
+
+### 🚀 Habilidades y Herramientas  
+🔹 **Lenguajes & Bases de Datos**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+🔹 **Herramientas de Análisis**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+🔹 **ERP & CRM**  
+![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft_Dynamics_365-002E6E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+🔹 **Project Management & BPM**  
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Six Sigma](https://img.shields.io/badge/Six_Sigma-34A853?style=for-the-badge&logo=sixsigma&logoColor=white)
+![PMBOK](https://img.shields.io/badge/PMBOK-FF5733?style=for-the-badge)
+
+---
+
+### 📂 Proyectos Destacados  
+🚀 **[Proyecto 1 - Análisis de Datos en Power BI](#)** - Dashboard interactivo para análisis financiero y toma de decisiones.  
+📊 **[Proyecto 2 - Optimización de Procesos](#)** - Implementación de Six Sigma para mejorar la eficiencia de un área de negocio.  
+🛠️ **[Proyecto 3 - Integración de CRM en una empresa](#)** - Análisis y desarrollo de estrategias para mejorar la gestión de clientes.  
+
+*(Los links pueden actualizarse cuando subas los proyectos a GitHub)*  
+
+---
+
+### 📊 Estadísticas de GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreasgjofre&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasgjofre&layout=compact&theme=radical)  
+
+---
+
+### 📬 ¡Conectemos!  
+🌍 **LinkedIn** → [linkedin.com/in/andreasgjofre](#)  
+📩 **Email** → andreasgjofre@example.com  
+💡 **Portafolio / Blog** → *(Próximamente)*  
+
+---
+
+📝 *Este perfil está en constante evolución, agregando nuevos proyectos y aprendizajes. ¡Gracias por visitar! 🚀*
