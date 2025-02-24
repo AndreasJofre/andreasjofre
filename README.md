@@ -49,8 +49,8 @@
 
 ### 📬 ¡Conectemos!  
 🌍 **LinkedIn** → [linkedin.com/in/andreasgjofre](#)  
-📩 **Email** → andreasgjofre@example.com  
-💡 **Portafolio / Blog** → *(Próximamente)*  
+📩 **Email** → andresjofreu@gmail.com  
+💡 ** 
 
 ---
 
